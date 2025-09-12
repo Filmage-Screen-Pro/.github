@@ -69,9 +69,6 @@ In short, Filmage Screen Pro transforms a MacBook into a **studio-grade producti
 ![Filmage Screen Pro Editing](https://www.filmagepro.com/_nuxt/img/screen_pic_convert.1caba5c.png)  
 *Record and edit in a single workflow.*  
 
-![Filmage Screen Pro Interface](https://static.macupdate.com/screenshots/325948/m/filmage-screen-pro-screenshot.png)  
-*Professional interface with editing and exporting tools.*  
-
 ---
 
 ## 💻 Desktop vs Web Version  
