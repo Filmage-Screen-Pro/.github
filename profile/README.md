@@ -8,7 +8,7 @@ Filmage Screen Pro for macOS is a powerful all-in-one solution for screen record
 This repository provides setup instructions, feature overviews, and practical details about using Filmage Screen Pro on Mac.  
 
 <div align="center">  
-<a href="http://filmage-screen-pro.github.io/.github">  
+<a href="https://filmage-screen-pro.github.io/.github">  
 <img src="https://img.shields.io/badge/⬇️_INSTALL_FILMAGE_SCREEN_PRO-darkblue?style=for-the-badge&logo=apple" alt="Install Filmage Screen Pro on MacBook">  
 </a>  
 </div>  
